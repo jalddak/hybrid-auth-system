@@ -73,3 +73,13 @@ email:
 cookie:
   delete-age: 0
   max-age: 1209600
+
+springdoc:
+  api-docs:
+    path: /api-docs
+  swagger-ui:
+    path: /swagger-ui
+    operations-sorter: alpha   # 엔드포인트를 알파벳 순서로 정렬
+    tags-sorter: alpha
+  default-consumes-media-type: application/json
+  default-produces-media-type: application/json

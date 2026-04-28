@@ -4,7 +4,7 @@
 
 ---
 ## ERD
-![ERD](./docs/has_ERD.png)
+![ERD](./docs/erd.png)
 
 ---
 

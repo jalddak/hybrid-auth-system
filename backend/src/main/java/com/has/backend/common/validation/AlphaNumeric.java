@@ -1,4 +1,4 @@
-package com.autoqa.backend.common.validation;
+package com.has.backend.common.validation;
 
 import jakarta.validation.Constraint;
 import jakarta.validation.Payload;

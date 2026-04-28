@@ -50,6 +50,9 @@ dependencies {
 
 	// ===== NanoId =====
 	implementation 'com.aventrix.jnanoid:jnanoid:2.0.0'
+
+	// Swagger (springdoc-openapi — Spring Boot 4.0.5 호환)
+	implementation 'org.springdoc:springdoc-openapi-starter-webmvc-ui:3.0.3'
 }
 
 tasks.named('test') {
